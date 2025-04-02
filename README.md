@@ -1,2 +1,7 @@
 # Student-Management-System
 The Student Management System is an ADBMS project integrating Python and MySQL for efficient student record management. It supports CRUD operations, search, and filtering. The system ensures data integrity, follows normalization, and simplifies academic record-keeping for educational institutions.
+The Student Management System is a simple ADBMS project developed using Python, MySQL, and Tkinter for the GUI in VS Code. This project allows users to manage student records efficiently by performing basic operations such as adding, viewing, updating, and deleting student information. The system integrates a MySQL database to store student details securely while providing a user-friendly interface through Tkinter.
+
+The application enables users to enter student details such as name, roll number, course, and academic performance, which are then stored in the database. The data can be retrieved and displayed in a structured format, allowing modifications or deletions when needed. The project follows a simple design, making it easy to understand and implement while ensuring database normalization for efficient storage.
+
+This system is designed for educational purposes and provides a hands-on approach to learning database management and GUI development in Python. It can be further enhanced by adding features such as search functionality, authentication, and report generation to improve usability and security.
