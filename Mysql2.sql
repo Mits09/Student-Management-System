@@ -1,0 +1,1 @@
+delete from Students where student_id=6;
